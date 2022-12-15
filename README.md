@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **AndrewCrossan1/AndrewCrossan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My name is Andrew
+## My name is Andrew
 
  I attend the University of Strathclyde studying BScH Software Engineering where I am in Year 2.<br/>
  I am from Glasgow, Scotland :scotland:<br/>
