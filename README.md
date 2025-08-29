@@ -9,9 +9,9 @@ Tech Stack/Languages:
 - TypeScript (React and Vue)
 - CSS (SASS, SCSS) 
 
-- 💬 Ask me any questions if you want to know more!
+💬 Ask me any questions if you want to know more!
 
-- 📫 You can reach me on the following socials:
+📫 You can reach me on the following socials:
   - :sparkles: Instagram: AndrewCrossan1
   - :sparkles: Twitter: AndrewCrossan11
   - :sparkles: LinkedIn: andrewcrossan1
